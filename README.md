@@ -6,7 +6,7 @@ This project analyzes sales, profit, customers, products, brands, discounts, del
 
 A Streamlit dashboard is also developed to explore the dataset, visualize business performance, evaluate regression models, and predict profit for new orders.
 
-Live : 
+Live : https://sales-profit-analytics-dashboard.streamlit.app/
 
 ## 🎯 Objectives
 
